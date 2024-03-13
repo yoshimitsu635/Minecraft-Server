@@ -1,0 +1,429 @@
+{
+  "upgradednetherite_items:recipes/upgraded_netherite_pearl_smithing": {
+    "criteria": {
+      "has_ender_pearl": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:recipes/thermometer": {
+    "criteria": {
+      "temperature": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "byg:root": {
+    "criteria": {
+      "tick": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "gothic:adv_root": {
+    "criteria": {
+      "adv_root": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:root": {
+    "criteria": {
+      "requirement": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/normal_mode": {
+    "criteria": {
+      "game_state": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/cooling_goo": {
+    "criteria": {
+      "has_packed_ice": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/white_washcloth": {
+    "criteria": {
+      "has_string": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_upgrade_smithing": {
+    "criteria": {
+      "has_netherite_ingot": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/purple_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/potash_solution": {
+    "criteria": {
+      "has_wood_ash": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "cold_sweat:extreme_temps": {
+    "criteria": {
+      "requirement": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/root": {
+    "criteria": {
+      "tick": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_items:recipes/gold_upgraded_netherite_apple": {
+    "criteria": {
+      "has_netherite_ingot": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_pickaxe_smithing": {
+    "criteria": {
+      "has_netherite_pickaxe": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/soap_bottle": {
+    "criteria": {
+      "has_ingredients": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/blue_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/heating_goo": {
+    "criteria": {
+      "has_magma_blocks": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "knight_quest:kq_quest_source": {
+    "criteria": {
+      "kq_quest_source": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2024-03-13 13:12:08 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_horse_armor": {
+    "criteria": {
+      "has_netherite_ingot": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/ice": {
+    "criteria": {
+      "has_cubes": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_bow_smithing": {
+    "criteria": {
+      "has_netherite_bow": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/green_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/light_blue_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/canteen": {
+    "criteria": {
+      "has_leather": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_boots": {
+    "criteria": {
+      "has_wool": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_axe_smithing": {
+    "criteria": {
+      "has_netherite_axe": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_ingot": {
+    "criteria": {
+      "has_netherite_ingot": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/warm_liner_material": {
+    "criteria": {
+      "has_heating_goo": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_items:recipes/netherite_apple": {
+    "criteria": {
+      "has_netherite_ingot": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/yellow_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/orange_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wood_ash": {
+    "criteria": {
+      "has_charcoal": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_bow_smithing": {
+    "criteria": {
+      "has_netherite_bow": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_leggings_smithing": {
+    "criteria": {
+      "has_netherite_leggings": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/black_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/lime_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_sword_smithing": {
+    "criteria": {
+      "has_netherite_sword": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/light_gray_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite:recipes/upgraded_netherite_boots_smithing": {
+    "criteria": {
+      "has_netherite_boots": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/brown_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_jacket": {
+    "criteria": {
+      "has_wool": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/magenta_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/soap_mix": {
+    "criteria": {
+      "has_ingredients": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "byg:biomepedia_gift": {
+    "criteria": {
+      "tick": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_helmet_smithing": {
+    "criteria": {
+      "has_netherite_helmet": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/cyan_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_hat": {
+    "criteria": {
+      "has_wool": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "majruszsdifficulty:progressive_difficulty/bleeding": {
+    "criteria": {
+      "bleeding_applied": "2024-03-13 13:12:00 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_chestplate_smithing": {
+    "criteria": {
+      "has_netherite_chestplate": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/red_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/pink_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/wool_pants": {
+    "criteria": {
+      "has_wool": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/gray_washcloth": {
+    "criteria": {
+      "has_white_washcloth": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "armorunder:recipes/misc/cool_liner_material": {
+    "criteria": {
+      "has_cooling_goo": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "upgradednetherite_ultimate:recipes/upgraded_netherite_shovel_smithing": {
+    "criteria": {
+      "has_netherite_shovel": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "survive:recipes/main/ice_cube": {
+    "criteria": {
+      "has_ice": "2024-03-13 13:05:55 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 2975
+}
